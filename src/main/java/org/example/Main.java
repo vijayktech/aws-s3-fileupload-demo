@@ -29,8 +29,8 @@ public class Main {
     }
 
     private static AWSCredentials getAwsCred(){
-        return new BasicAWSCredentials("AKIA6DM4WP4CK6RSUNFN",
-                "7SBE26508ORqrm9S5eC2aWLgJ9NLGwcwW6LOkomy");
+        return new BasicAWSCredentials("",
+                "");
     }
 
 }
